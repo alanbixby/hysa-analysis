@@ -1,0 +1,1727 @@
+[
+  {
+    "id": 400152,
+    "name": "Third Coast Bank,",
+    "account_type": [
+      "High Yield Savings via SaveBetter"
+    ],
+    "apy": 4.13
+  },
+  {
+    "id": 400772,
+    "name": "BMO Harris Bank",
+    "account_type": [
+      "Online",
+      "Savings Account"
+    ],
+    "apy": 4
+  },
+  {
+    "id": 387873,
+    "name": "Vio Bank",
+    "account_type": [
+      "Cornerstone Money",
+      "Market"
+    ],
+    "apy": 4.01
+  },
+  {
+    "id": 373739,
+    "name": "Capital One",
+    "account_type": [
+      "360 Performance",
+      "Savings"
+    ],
+    "apy": 3.3
+  },
+  {
+    "id": 277037,
+    "name": "MySavingsDirect",
+    "account_type": [
+      "MySavings",
+      "Account"
+    ],
+    "apy": 4.35
+  },
+  {
+    "id": 391584,
+    "name": "Bask Bank",
+    "account_type": [
+      "Bask Interest Savings",
+      "Account"
+    ],
+    "apy": 4.15
+  },
+  {
+    "id": 399438,
+    "name": "Upgrade",
+    "account_type": [
+      "Premier Savings"
+    ],
+    "apy": 4.13
+  },
+  {
+    "id": 401662,
+    "name": "UFB Direct",
+    "account_type": [
+      "UFB Best",
+      "Savings"
+    ],
+    "apy": 4.11
+  },
+  {
+    "id": 24702,
+    "name": "Salem Five Direct",
+    "account_type": [
+      "eOne",
+      "Savings - New Money"
+    ],
+    "apy": 4.1
+  },
+  {
+    "id": 398271,
+    "name": "Customers Bank",
+    "account_type": [
+      "High - Yield",
+      "Digital Savings"
+    ],
+    "apy": 4.05
+  },
+  {
+    "id": 391854,
+    "name": "My Banking Direct",
+    "account_type": [
+      "High",
+      "Yield Savings"
+    ],
+    "apy": 4.05
+  },
+  {
+    "id": 387064,
+    "name": "CIT Bank",
+    "account_type": [
+      "Savings Connect"
+    ],
+    "apy": 4.05
+  },
+  {
+    "id": 392999,
+    "name": "Bread Financial",
+    "account_type": [
+      "Bread Savings",
+      "High-Yield Savings Account"
+    ],
+    "apy": 4
+  },
+  {
+    "id": 379092,
+    "name": "Valleydirect",
+    "account_type": [
+      "Online Savings",
+      "Account"
+    ],
+    "apy": 4
+  },
+  {
+    "id": 374467,
+    "name": "First Foundation",
+    "account_type": [
+      "Online Savings Account - New Money Only"
+    ],
+    "apy": 4
+  },
+  {
+    "id": 344348,
+    "name": "ConnectOne Bank",
+    "account_type": [
+      "OneConnection",
+      "Savings - Online"
+    ],
+    "apy": 3.9
+  },
+  {
+    "id": 375146,
+    "name": "Personal Capital",
+    "account_type": [
+      "Personal",
+      "Capital Cash - Advisory Client Rate"
+    ],
+    "apy": 3.9
+  },
+  {
+    "id": 371347,
+    "name": "Betterment",
+    "account_type": [
+      "Betterment Everyday",
+      "Cash Reserve"
+    ],
+    "apy": 3.75
+  },
+  {
+    "id": 372353,
+    "name": "BrioDirect",
+    "account_type": [
+      "BrioDirect Savings",
+      "Plus"
+    ],
+    "apy": 3.75
+  },
+  {
+    "id": 264559,
+    "name": "Synchrony Bank",
+    "account_type": [
+      "High Yield",
+      "Savings"
+    ],
+    "apy": 3.75
+  },
+  {
+    "id": 348778,
+    "name": "Citizens Access",
+    "account_type": [
+      "Online",
+      "Savings Account"
+    ],
+    "apy": 3.75
+  },
+  {
+    "id": 392219,
+    "name": "SoFi Bank, N.A",
+    "account_type": [
+      "SoFi Savings and",
+      "Checking"
+    ],
+    "apy": 3.75
+  },
+  {
+    "id": 401360,
+    "name": "LendingClub",
+    "account_type": [
+      "Founder Savings"
+    ],
+    "apy": 3.65
+  },
+  {
+    "id": 121911,
+    "name": "Prime Alliance",
+    "account_type": [
+      "Personal Savings Account"
+    ],
+    "apy": 3.65
+  },
+  {
+    "id": 353210,
+    "name": "TAB Bank",
+    "account_type": [
+      "High Yield Savings"
+    ],
+    "apy": 3.64
+  },
+  {
+    "id": 347837,
+    "name": "CIBC Bank USA",
+    "account_type": [
+      "CIBC Agility Savings -",
+      "Online Only"
+    ],
+    "apy": 3.62
+  },
+  {
+    "id": 382197,
+    "name": "Affirm",
+    "account_type": [
+      "Affirm Savings"
+    ],
+    "apy": 3.5
+  },
+  {
+    "id": 347517,
+    "name": "TIAA Bank",
+    "account_type": [
+      "Basic Savings"
+    ],
+    "apy": 3.5
+  },
+  {
+    "id": 24070,
+    "name": "DollarSavingsDirect",
+    "account_type": [
+      "Dollar Savings Account"
+    ],
+    "apy": 3.5
+  },
+  {
+    "id": 362122,
+    "name": "USALLIANCE",
+    "account_type": [
+      "High Dividend Savings"
+    ],
+    "apy": 3.5
+  },
+  {
+    "id": 328815,
+    "name": "Live Oak Bank",
+    "account_type": [
+      "High",
+      "Yield Online Savings"
+    ],
+    "apy": 3.5
+  },
+  {
+    "id": 373901,
+    "name": "Quontic Bank",
+    "account_type": [
+      "High Yield",
+      "Savings Account"
+    ],
+    "apy": 3.5
+  },
+  {
+    "id": 363861,
+    "name": "Rising Bank",
+    "account_type": [
+      "High Yield Savings",
+      "Account"
+    ],
+    "apy": 3.5
+  },
+  {
+    "id": 252512,
+    "name": "Barclays",
+    "account_type": [
+      "Online Savings",
+      "Account"
+    ],
+    "apy": 3.4
+  },
+  {
+    "id": 129653,
+    "name": "Lafayette FCU",
+    "account_type": [
+      "Preferred",
+      "Savings"
+    ],
+    "apy": 3.34
+  },
+  {
+    "id": 5524,
+    "name": "American Express",
+    "account_type": [
+      "High Yield Savings Account"
+    ],
+    "apy": 3.3
+  },
+  {
+    "id": 10934,
+    "name": "Discover",
+    "account_type": [
+      "Online",
+      "Savings"
+    ],
+    "apy": 3.3
+  },
+  {
+    "id": 305301,
+    "name": "Ally Bank",
+    "account_type": [
+      "Online Savings",
+      "Account"
+    ],
+    "apy": 3.3
+  },
+  {
+    "id": 314018,
+    "name": "Marcus by Goldman",
+    "account_type": [
+      "Online Savings Account"
+    ],
+    "apy": 3.3
+  },
+  {
+    "id": 19805,
+    "name": "SFGI Direct",
+    "account_type": [
+      "SFGI Direct Savings",
+      "Account"
+    ],
+    "apy": 3.26
+  },
+  {
+    "id": 29148,
+    "name": "Sallie Mae Bank",
+    "account_type": [
+      "High-Yield",
+      "Savings"
+    ],
+    "apy": 3.2
+  },
+  {
+    "id": 20054,
+    "name": "SmartyPig",
+    "account_type": [
+      "SmartyPig Savings"
+    ],
+    "apy": 3.1
+  },
+  {
+    "id": 393405,
+    "name": "Seattle Bank",
+    "account_type": [
+      "Digital Direct",
+      "Savings"
+    ],
+    "apy": 3
+  },
+  {
+    "id": 56467,
+    "name": "Colorado Federal Savings",
+    "account_type": [
+      "High Yield Savings"
+    ],
+    "apy": 3
+  },
+  {
+    "id": 283005,
+    "name": "Quorum FCU",
+    "account_type": [
+      "HighQ"
+    ],
+    "apy": 3
+  },
+  {
+    "id": 397574,
+    "name": "Laurel Road",
+    "account_type": [
+      "Laurel Road High Yield Savings",
+      "Account"
+    ],
+    "apy": 3
+  },
+  {
+    "id": 13994,
+    "name": "FNBO Direct",
+    "account_type": [
+      "Online Savings",
+      "Account"
+    ],
+    "apy": 3
+  },
+  {
+    "id": 24701,
+    "name": "CNB Bank Direct",
+    "account_type": [
+      "High Yield Savings",
+      "Account"
+    ],
+    "apy": 2.94
+  },
+  {
+    "id": 328163,
+    "name": "Alliant Credit Union",
+    "account_type": [
+      "High-Rate",
+      "Savings"
+    ],
+    "apy": 2.7
+  },
+  {
+    "id": 19191,
+    "name": "EmigrantDirect.com",
+    "account_type": [
+      "AmericanDream",
+      "SavingsAccount"
+    ],
+    "apy": 2.5
+  },
+  {
+    "id": 384451,
+    "name": "Revolut",
+    "account_type": [
+      "Savings Vault - Subscription",
+      "Rate"
+    ],
+    "apy": 2.5
+  },
+  {
+    "id": 351732,
+    "name": "PenFed Credit Union",
+    "account_type": [
+      "Premium Online",
+      "Savings"
+    ],
+    "apy": 2.3
+  },
+  {
+    "id": 393056,
+    "name": "Westmark Credit Union",
+    "account_type": [
+      "Online High Yield",
+      "Savings"
+    ],
+    "apy": 2.27
+  },
+  {
+    "id": 396850,
+    "name": "Dover FCU",
+    "account_type": [
+      "High Yield Savings"
+    ],
+    "apy": 2
+  },
+  {
+    "id": 343191,
+    "name": "Amalgamated Bank",
+    "account_type": [
+      "Online",
+      "Savings"
+    ],
+    "apy": 2
+  },
+  {
+    "id": 89250,
+    "name": "Dow Credit Union",
+    "account_type": [
+      "Premium High Yield",
+      "Deposit Account"
+    ],
+    "apy": 1.75
+  },
+  {
+    "id": 271081,
+    "name": "Bank5 Connect",
+    "account_type": [
+      "High-Interest",
+      "Savings"
+    ],
+    "apy": 1.5
+  },
+  {
+    "id": 122252,
+    "name": "Principal Bank",
+    "account_type": [
+      "Assured Savings"
+    ],
+    "apy": 1.31
+  },
+  {
+    "id": 332522,
+    "name": "Heritage Bank",
+    "account_type": [
+      "Jumbo Deposit",
+      "Account"
+    ],
+    "apy": 1.01
+  },
+  {
+    "id": 378703,
+    "name": "Affinity FCU",
+    "account_type": [
+      "SmartStart Savings"
+    ],
+    "apy": 1
+  },
+  {
+    "id": 389985,
+    "name": "Bank Onward (Bo)",
+    "account_type": [
+      "Bo Savings"
+    ],
+    "apy": 1
+  },
+  {
+    "id": 402572,
+    "name": "mph.bank",
+    "account_type": [
+      "Goals Savings Account"
+    ],
+    "apy": 1
+  },
+  {
+    "id": 291455,
+    "name": "Elements Financial",
+    "account_type": [
+      "Helium",
+      "Savings"
+    ],
+    "apy": 1
+  },
+  {
+    "id": 394307,
+    "name": "One Finance",
+    "account_type": [
+      "One Account"
+    ],
+    "apy": 1
+  },
+  {
+    "id": 297981,
+    "name": "All America Bank",
+    "account_type": [
+      "Regular Savings"
+    ],
+    "apy": 1
+  },
+  {
+    "id": 12592,
+    "name": "First Internet Bank",
+    "account_type": [
+      "Free",
+      "Savings"
+    ],
+    "apy": 0.8
+  },
+  {
+    "id": 377984,
+    "name": "Workers Credit Union",
+    "account_type": [
+      "SaveUp",
+      "Savings"
+    ],
+    "apy": 0.75
+  },
+  {
+    "id": 97842,
+    "name": "Newtown Savings",
+    "account_type": [
+      "NSBeSavings"
+    ],
+    "apy": 0.75
+  },
+  {
+    "id": 29714,
+    "name": "Chevron FCU",
+    "account_type": [
+      "Primary Savings"
+    ],
+    "apy": 0.75
+  },
+  {
+    "id": 259563,
+    "name": "Spectrum Credit Union",
+    "account_type": [
+      "Primary",
+      "Savings"
+    ],
+    "apy": 0.75
+  },
+  {
+    "id": 287652,
+    "name": "State Bank of India",
+    "account_type": [
+      "Savings Account"
+    ],
+    "apy": 0.75
+  },
+  {
+    "id": 275452,
+    "name": "KS StateBank",
+    "account_type": [
+      "Simple Savings"
+    ],
+    "apy": 0.75
+  },
+  {
+    "id": 224213,
+    "name": "First Technology FCU",
+    "account_type": [
+      "Instant",
+      "Access Savings"
+    ],
+    "apy": 0.65
+  },
+  {
+    "id": 354363,
+    "name": "Axos Bank",
+    "account_type": [
+      "High Yield Savings"
+    ],
+    "apy": 0.61
+  },
+  {
+    "id": 331703,
+    "name": "Pelican State Credit",
+    "account_type": [
+      "Primary Shares"
+    ],
+    "apy": 0.6
+  },
+  {
+    "id": 48494,
+    "name": "Visions FCU",
+    "account_type": [
+      "Share Money Manager"
+    ],
+    "apy": 0.6
+  },
+  {
+    "id": 55571,
+    "name": "Hughes FCU",
+    "account_type": [
+      "Daily Savings"
+    ],
+    "apy": 0.55
+  },
+  {
+    "id": 65058,
+    "name": "Empower FCU",
+    "account_type": [
+      "Membership Share",
+      "Savings"
+    ],
+    "apy": 0.55
+  },
+  {
+    "id": 6248,
+    "name": "Blue FCU",
+    "account_type": [
+      "Accelerated",
+      "Savings"
+    ],
+    "apy": 0.5
+  },
+  {
+    "id": 5015,
+    "name": "Allegacy FCU",
+    "account_type": [
+      "Daily",
+      "Access Savings"
+    ],
+    "apy": 0.5
+  },
+  {
+    "id": 62949,
+    "name": "BECU (Boeing Employees Credit",
+    "account_type": [
+      "Member Share Savings"
+    ],
+    "apy": 0.5
+  },
+  {
+    "id": 73909,
+    "name": "American 1 Credit Union",
+    "account_type": [
+      "Members Choice",
+      "Account"
+    ],
+    "apy": 0.5
+  },
+  {
+    "id": 273215,
+    "name": "The Delaware National Bank",
+    "account_type": [
+      "Passbook Savings"
+    ],
+    "apy": 0.5
+  },
+  {
+    "id": 14480,
+    "name": "Presidential Bank (MD)",
+    "account_type": [
+      "Premier",
+      "Savings"
+    ],
+    "apy": 0.5
+  },
+  {
+    "id": 387178,
+    "name": "FACILE",
+    "account_type": [
+      "Savings Account"
+    ],
+    "apy": 0.5
+  },
+  {
+    "id": 8803,
+    "name": "Charles Schwab Bank",
+    "account_type": [
+      "High Yield",
+      "Investor Savings"
+    ],
+    "apy": 0.48
+  },
+  {
+    "id": 104425,
+    "name": "Pennsylvania State Employees",
+    "account_type": [
+      "Regular Share Account"
+    ],
+    "apy": 0.45
+  },
+  {
+    "id": 168513,
+    "name": "Technology Credit Union",
+    "account_type": [
+      "Insured",
+      "Investment Account"
+    ],
+    "apy": 0.4
+  },
+  {
+    "id": 13419,
+    "name": "Credit Human",
+    "account_type": [
+      "Share Savings"
+    ],
+    "apy": 0.4
+  },
+  {
+    "id": 339701,
+    "name": "MutualOne Bank",
+    "account_type": [
+      "Online",
+      "Savings"
+    ],
+    "apy": 0.4
+  },
+  {
+    "id": 33685,
+    "name": "North American Savings",
+    "account_type": [
+      "Performance Savings"
+    ],
+    "apy": 0.35
+  },
+  {
+    "id": 16646,
+    "name": "Northrop Grumman FCU",
+    "account_type": [
+      "Regular",
+      "Savings"
+    ],
+    "apy": 0.35
+  },
+  {
+    "id": 335735,
+    "name": "Northpointe Bank",
+    "account_type": [
+      "Ultimate",
+      "Savings"
+    ],
+    "apy": 0.35
+  },
+  {
+    "id": 114008,
+    "name": "Premier America Credit",
+    "account_type": [
+      "Regular Savings"
+    ],
+    "apy": 0.3
+  },
+  {
+    "id": 336282,
+    "name": "Thrivent FCU",
+    "account_type": [
+      "Simply",
+      "Savings"
+    ],
+    "apy": 0.3
+  },
+  {
+    "id": 71561,
+    "name": "Alabama Credit Union",
+    "account_type": [
+      "Share Savings",
+      "Account"
+    ],
+    "apy": 0.26
+  },
+  {
+    "id": 375220,
+    "name": "Service Credit Union",
+    "account_type": [
+      "Primary",
+      "Savings"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 15631,
+    "name": "iGObanking",
+    "account_type": [
+      "iGOsavings Plus - New",
+      "Money"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 332489,
+    "name": "Connexus Credit Union",
+    "account_type": [
+      "Additional",
+      "Savings"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 355718,
+    "name": "Georgia Banking Company",
+    "account_type": [
+      "GBC",
+      "Regular Savings"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 402624,
+    "name": "SRP FCU",
+    "account_type": [
+      "IRA Savings"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 296882,
+    "name": "Wells Fargo Bank",
+    "account_type": [
+      "Platinum Savings -",
+      "Standard Interest Rate"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 163925,
+    "name": "SEFCU",
+    "account_type": [
+      "Preferred Savings"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 370357,
+    "name": "Nationwide by Axos Bank",
+    "account_type": [
+      "Regular",
+      "Savings"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 327003,
+    "name": "BankPurely",
+    "account_type": [
+      "SavingPurely"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 181983,
+    "name": "Utah First FCU",
+    "account_type": [
+      "Savings"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 216166,
+    "name": "Hope FCU",
+    "account_type": [
+      "Share Account"
+    ],
+    "apy": 0.25
+  },
+  {
+    "id": 94679,
+    "name": "Parda FCU",
+    "account_type": [
+      "PARDA Premier Savings"
+    ],
+    "apy": 0.2
+  },
+  {
+    "id": 106488,
+    "name": "Interior FCU",
+    "account_type": [
+      "Primary",
+      "Savings Account"
+    ],
+    "apy": 0.2
+  },
+  {
+    "id": 280407,
+    "name": "Digital FCU (DCU)",
+    "account_type": [
+      "Primary Savings"
+    ],
+    "apy": 0.15
+  },
+  {
+    "id": 21384,
+    "name": "Third Federal Savings and",
+    "account_type": [
+      "High-Yield Savings"
+    ],
+    "apy": 0.15
+  },
+  {
+    "id": 22493,
+    "name": "Wings Financial Credit Union",
+    "account_type": [
+      "Money",
+      "Manager Account"
+    ],
+    "apy": 0.15
+  },
+  {
+    "id": 348865,
+    "name": "Northfield Bank",
+    "account_type": [
+      "Platinum Savings -",
+      "Online (New Money)"
+    ],
+    "apy": 0.15
+  },
+  {
+    "id": 132182,
+    "name": "Latino Credit Union",
+    "account_type": [
+      "Regular",
+      "Savings Account"
+    ],
+    "apy": 0.15
+  },
+  {
+    "id": 314548,
+    "name": "Self-Help FCU",
+    "account_type": [
+      "Savings",
+      "(all types)"
+    ],
+    "apy": 0.15
+  },
+  {
+    "id": 153283,
+    "name": "Self-Help Credit Union",
+    "account_type": [
+      "Savings",
+      "Account"
+    ],
+    "apy": 0.15
+  },
+  {
+    "id": 382409,
+    "name": "TBK Bank",
+    "account_type": [
+      "Savings Account"
+    ],
+    "apy": 0.15
+  },
+  {
+    "id": 285007,
+    "name": "American Heritage FCU",
+    "account_type": [
+      "Identity",
+      "Protection Savings"
+    ],
+    "apy": 0.11
+  },
+  {
+    "id": 25866,
+    "name": "United FCU",
+    "account_type": [
+      "Achiever Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 368261,
+    "name": "OneUnited Bank",
+    "account_type": [
+      "BankBlack",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 387180,
+    "name": "BankMD",
+    "account_type": [
+      "BankMD Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 107651,
+    "name": "Peoples Security Bank and",
+    "account_type": [
+      "Certificate Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 5548,
+    "name": "UNIFY Financial Credit",
+    "account_type": [
+      "Club Account"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 266967,
+    "name": "Manasquan Bank",
+    "account_type": [
+      "Club Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 317921,
+    "name": "Marine FCU",
+    "account_type": [
+      "Credit Builder",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 86704,
+    "name": "Zeal Credit Union",
+    "account_type": [
+      "High Yield",
+      "Fund"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 386113,
+    "name": "Flagstar Bank",
+    "account_type": [
+      "High Yield",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 338507,
+    "name": "Lake Michigan Credit",
+    "account_type": [
+      "Max Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 185145,
+    "name": "Veridian Credit Union",
+    "account_type": [
+      "Member Equity",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 299634,
+    "name": "Affinity Plus FCU",
+    "account_type": [
+      "Membership",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 266250,
+    "name": "ableBanking",
+    "account_type": [
+      "Money Market Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 324715,
+    "name": "PurePoint Financial",
+    "account_type": [
+      "Online",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 92368,
+    "name": "Pacific National Bank",
+    "account_type": [
+      "Personal",
+      "Savings Account"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 64836,
+    "name": "Community Bank, National",
+    "account_type": [
+      "Premium Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 180073,
+    "name": "United States Senate",
+    "account_type": [
+      "Primary Savings Share"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 17959,
+    "name": "NASA FCU",
+    "account_type": [
+      "Prime",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 24796,
+    "name": "Country Bank (MA)",
+    "account_type": [
+      "Regular",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 57451,
+    "name": "Financial Partners Credit",
+    "account_type": [
+      "Regular Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 28706,
+    "name": "State Department FCU",
+    "account_type": [
+      "Regular",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 32311,
+    "name": "La Capitol FCU",
+    "account_type": [
+      "Regular",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 10736,
+    "name": "Teachers FCU",
+    "account_type": [
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 81230,
+    "name": "Bellco Credit Union",
+    "account_type": [
+      "Savings",
+      "Account"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 362136,
+    "name": "MapleMark Bank",
+    "account_type": [
+      "Savings Account"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 153370,
+    "name": "Sun East FCU",
+    "account_type": [
+      "Savings Account"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 293503,
+    "name": "Hanscom FCU",
+    "account_type": [
+      "Secondary Share"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 145814,
+    "name": "Securityplus",
+    "account_type": [
+      "Share Account"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 63085,
+    "name": "Pen Air Credit Union",
+    "account_type": [
+      "Share Savings",
+      "Accounts"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 213450,
+    "name": "U S Postal Service FCU",
+    "account_type": [
+      "Special",
+      "Purpose Club Account"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 309046,
+    "name": "Hiway Credit Union",
+    "account_type": [
+      "WINcentive",
+      "Savings"
+    ],
+    "apy": 0.1
+  },
+  {
+    "id": 395862,
+    "name": "Andrews FCU",
+    "account_type": [
+      "Online",
+      "Savings Special"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 132090,
+    "name": "Langley FCU",
+    "account_type": [
+      "Langley Saves"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 278425,
+    "name": "Summit Credit Union (WI)",
+    "account_type": [
+      "GoSave",
+      "Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 110741,
+    "name": "First Flight FCU",
+    "account_type": [
+      "Agency",
+      "Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 14860,
+    "name": "People's Credit Union",
+    "account_type": [
+      "Basic",
+      "Savings"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 225711,
+    "name": "Sidney FCU",
+    "account_type": [
+      "Club"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 248325,
+    "name": "Chartway FCU",
+    "account_type": [
+      "Custom Share"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 58738,
+    "name": "Louisiana National Bank",
+    "account_type": [
+      "First",
+      "Savings Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 65873,
+    "name": "The Adirondack Trust",
+    "account_type": [
+      "Golden Passbook"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 34843,
+    "name": "RTN FCU",
+    "account_type": [
+      "Home Buyer",
+      "Savings"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 61636,
+    "name": "Achieva Credit Union",
+    "account_type": [
+      "PAL Savings",
+      "Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 17773,
+    "name": "Mountain America Credit",
+    "account_type": [
+      "Primary Savings"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 79849,
+    "name": "California Coast Credit",
+    "account_type": [
+      "Primary Savings Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 50463,
+    "name": "Patelco Credit Union",
+    "account_type": [
+      "Regular",
+      "Savings"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 90368,
+    "name": "Premier Members Credit",
+    "account_type": [
+      "Regular Savings"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 128663,
+    "name": "Kinecta FCU",
+    "account_type": [
+      "Regular Share Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 14071,
+    "name": "Abound Credit Union",
+    "account_type": [
+      "Savings",
+      "Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 335817,
+    "name": "Community Bank of",
+    "account_type": [
+      "Savings Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 133904,
+    "name": "Spectra Credit Union",
+    "account_type": [
+      "Savings",
+      "Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 18734,
+    "name": "Northwest FCU",
+    "account_type": [
+      "Savings Club"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 121583,
+    "name": "Great Lakes Credit Union",
+    "account_type": [
+      "Share",
+      "Savings"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 88580,
+    "name": "Department Of Commerce",
+    "account_type": [
+      "Share Savings Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 187858,
+    "name": "Wayne Bank",
+    "account_type": [
+      "Statement Savings",
+      "Account"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 294770,
+    "name": "Investors Bank",
+    "account_type": [
+      "YourStyle",
+      "Savings"
+    ],
+    "apy": 0.05
+  },
+  {
+    "id": 302752,
+    "name": "NBT Bank, National",
+    "account_type": [
+      "eSavings"
+    ],
+    "apy": 0.03
+  },
+  {
+    "id": 19147,
+    "name": "Consumers Credit Union",
+    "account_type": [
+      "Membership Share Savings"
+    ],
+    "apy": 0.03
+  },
+  {
+    "id": 122132,
+    "name": "Princeton FCU",
+    "account_type": [
+      "Regular Share",
+      "Savings"
+    ],
+    "apy": 0.03
+  },
+  {
+    "id": 55638,
+    "name": "Pima FCU",
+    "account_type": [
+      "Regular Shares"
+    ],
+    "apy": 0.03
+  },
+  {
+    "id": 342076,
+    "name": "Santander Bank, N.A",
+    "account_type": [
+      "Santander",
+      "Savings Account"
+    ],
+    "apy": 0.03
+  },
+  {
+    "id": 77306,
+    "name": "Armed Forces Bank",
+    "account_type": [
+      "Savings"
+    ],
+    "apy": 0.03
+  },
+  {
+    "id": 385583,
+    "name": "Industrial Bank",
+    "account_type": [
+      "Community",
+      "Saving"
+    ],
+    "apy": 0.02
+  },
+  {
+    "id": 29953,
+    "name": "Chemung Canal Trust",
+    "account_type": [
+      "Personal Savings"
+    ],
+    "apy": 0.02
+  },
+  {
+    "id": 311837,
+    "name": "State Bank of Texas (SBT)",
+    "account_type": [
+      "Regular",
+      "Savings Account"
+    ],
+    "apy": 0.02
+  },
+  {
+    "id": 254835,
+    "name": "City National Bank",
+    "account_type": [
+      "Reward",
+      "Savings"
+    ],
+    "apy": 0.02
+  },
+  {
+    "id": 270643,
+    "name": "TD Bank",
+    "account_type": [
+      "Simple",
+      "Savings"
+    ],
+    "apy": 0.02
+  },
+  {
+    "id": 41642,
+    "name": "First Financial Northwest",
+    "account_type": [
+      "Statement Savings"
+    ],
+    "apy": 0.02
+  },
+  {
+    "id": 7346,
+    "name": "USAA Bank",
+    "account_type": [
+      "USAA Performance First",
+      "Savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 384577,
+    "name": "Union Bank (San Francisco,",
+    "account_type": [
+      "Bank Freely savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 339549,
+    "name": "Bank of America",
+    "account_type": [
+      "Bank of America",
+      "Advantage Savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 43758,
+    "name": "Chase Bank",
+    "account_type": [
+      "Chase Premier Savings",
+      "- Standard"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 206928,
+    "name": "Salal Credit Union",
+    "account_type": [
+      "Extra",
+      "Savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 343640,
+    "name": "KeyBank",
+    "account_type": [
+      "Key Active Saver"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 17313,
+    "name": "Orion FCU",
+    "account_type": [
+      "Miscellaneous",
+      "Shares"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 375334,
+    "name": "Citizens Bank (RI)",
+    "account_type": [
+      "One Deposit",
+      "Savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 68274,
+    "name": "Liberty FCU",
+    "account_type": [
+      "Regular",
+      "Shares"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 20021,
+    "name": "M&T Bank",
+    "account_type": [
+      "Relationship Savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 7950,
+    "name": "University FCU",
+    "account_type": [
+      "Savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 301269,
+    "name": "PNC Bank",
+    "account_type": [
+      "Standard",
+      "Savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 31983,
+    "name": "US Bank",
+    "account_type": [
+      "Standard Savings"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 59896,
+    "name": "Comerica Bank",
+    "account_type": [
+      "Statement Savings",
+      "Account"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 19708,
+    "name": "Salem Five",
+    "account_type": [
+      "Statement Savings",
+      "Account"
+    ],
+    "apy": 0.01
+  },
+  {
+    "id": 20477,
+    "name": "Webster Bank",
+    "account_type": [
+      "Webster Value",
+      "Savings"
+    ],
+    "apy": 0.01
+  }
+]
